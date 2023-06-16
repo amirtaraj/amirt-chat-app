@@ -1,6 +1,0 @@
----
-deployment:
- tasks:
-  - export DEPLOYPATH=/home/amirtara/public_html/
-  - /bin/cp -R client $DEPLOYPATH
-  - /bin/cp -R server $DEPLOYPATH
