@@ -1,0 +1,7 @@
+{
+    "name": "amirt-chat-app",
+    "description": "My sample chat app",
+    "repository": "https://github.com/amirtaraj/amirt-chat-app",
+    "logo": "https://node-js-sample-1234567890ab.herokuapp.com/node.png",
+    "keywords": ["node", "express", "static"]
+  }
